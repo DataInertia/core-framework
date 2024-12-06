@@ -29,9 +29,10 @@
 
 Explore Examples: Run any example script to see the framework in action:
 
-    ````bash
+    ```bash
     python examples/<example_file>.py
     
     # or
 
     python -m unittest discover -s tests
+    ```
