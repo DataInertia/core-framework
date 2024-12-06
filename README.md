@@ -23,11 +23,11 @@
 
 ## Quick Start
 1. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 
-Explore Examples: Run any example script to see the framework in action:
+2. **Explore Examples: Run any example script to see the framework in action**:
 
    ```bash
     python examples/<example_file>.py
